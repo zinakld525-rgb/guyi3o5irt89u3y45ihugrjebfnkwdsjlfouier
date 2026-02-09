@@ -8,7 +8,7 @@ app:
     - EXPORT_METHOD: "app-store"
     - BUNDLE_ID: "com.mnemoriaIG.jonesJ"
     - TEAM_ID: "H9GQX8UW3V"
-    - PROFILE_UUID: "a9eaf857-6448-4002-8e24-9f138e0ee04d"
+    - PROFILE_UUID: "69f82cc1-a9bf-4283-8fa2-1c6a67b12873"
 
 workflows:
   archive_and_export_app:
