@@ -3,11 +3,11 @@ default_step_lib_source: "https://github.com/bitrise-io/bitrise-steplib.git"
 
 app:
   envs:
-    - PROJECT_PATH: "Historyy Quiz.xcodeproj"
-    - SCHEME: "Historyy Quiz"
+    - PROJECT_PATH: "Klevo.xcodeproj"
+    - SCHEME: "Klevo"
     - EXPORT_METHOD: "app-store"
-    - BUNDLE_ID: "com.mnemoriaIG.jonesJ"
-    - TEAM_ID: "H9GQX8UW3V"
+    - BUNDLE_ID: "zm.klevo.fishtracker"
+    - TEAM_ID: "MCQUX7K46C"
     - PROFILE_UUID: "69f82cc1-a9bf-4283-8fa2-1c6a67b12873"
 
 workflows:
